@@ -1,3 +1,5 @@
 #!/usr/bin/python
 
-print "hello World"
+import time
+
+print "hello World", time.time()
